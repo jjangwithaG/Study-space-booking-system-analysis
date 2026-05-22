@@ -11,3 +11,4 @@ This project was adapted and refined from a collaborative academic project.
  can be found in here](Diagrams)
 
  ## Full report
+[View the full academic report of the project](Final_report.pdf)
