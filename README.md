@@ -7,8 +7,7 @@ This project analyzes and redesigns Maastricht university's study space booking 
 This project was adapted and refined from a collaborative academic project.
 
 ## Diagrams
-[The complete set of the Data Flow Diagrams (DFDs), Business Process Model and Notation (BPMN) and Entity-Relationship (ER) diagram 
- can be found in here](Diagrams)
+[View the complete set of the Data Flow Diagrams (DFDs), Business Process Model and Notation (BPMN) and Entity-Relationship (ER) diagram](Diagrams)
 
  ## Full report
 [View the full academic report of the project](Final_report.pdf)
