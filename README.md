@@ -8,4 +8,6 @@ This project was adapted and refined from a collaborative academic project.
 
 ## Diagrams
 [The complete set of the Data Flow Diagrams (DFDs), Business Process Model and Notation (BPMN) and Entity-Relationship (ER) diagram 
- can be found in here](diagrams/)
+ can be found in here](Diagrams)
+
+ ## Full report
